@@ -4,7 +4,7 @@
 
   We invite you to explore our project and contribute to its development. Check out our repository for more details and instructions on how to get involved!" 
 
-  **P.S. The code comments are in Romanian, and the translation of the words appearing on camera is: "da = yes, nu = no, Te iubesc = i love you**
+  **P.S. The code comments are in Romanian, and the translation of the words appearing on camera is: "da = yes, nu = no, Te iubesc = i love you, spatiu = space, sterge = delete.**
 
   How it works? here--> https://youtu.be/TOZv-1VqM_I?si=oK__2aNfFkIGNAHB
 
