@@ -1,4 +1,4 @@
-"  Welcome to our ASL Translator project! This application, developed by my team and me, is a tool similar to Google Translate but for American Sign Language (ASL). It translates both signs into text and text into signs. Currently in beta, it recognizes the ASL alphabet and key phrases like "yes," "no," and "I love you." The "like" sign generates a space between words/letters, and the "dislike" sign deletes incorrect recognitions.
+   Welcome to our ASL Translator project! This application, developed by my team and me, is a tool similar to Google Translate but for American Sign Language (ASL). It translates both signs into text and text into signs. Currently in beta, it recognizes the ASL alphabet and key phrases like "yes," "no," and "I love you." The "like" sign generates a space between words/letters, and the "dislike" sign deletes incorrect recognitions.
 
   Built in Python, the application uses a custom-trained model by our team. The user interface is also developed in Python, utilizing the Tkinter library.
 
